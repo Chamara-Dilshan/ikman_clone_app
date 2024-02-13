@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "680147753488",
+    "project_id": "ikmancloneapp",
+    "storage_bucket": "ikmancloneapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:680147753488:android:8c21c3ec53f9fa12f38895",
+        "android_client_info": {
+          "package_name": "com.example.ikman_clone_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkSa_tCttFjF1JjoJWplkM2MPHW3QX0ow"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
